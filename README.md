@@ -1,8 +1,8 @@
-# 📄 NotaryPro – Professional Website Template for Notaries & Legal Specialists
+# 📄 NotaryPro – Professional Website Concept for Notaries & Legal Specialists
 
 ## 📝 Project Summary
 
-**NotaryPro** is a clean and conversion-focused website template built specifically for **notary publics**, **mobile notaries**, **loan signing agents**, and **legal document specialists**.
+**NotaryPro** is a clean and conversion-ready web solution for legal professionals built specifically for **notary publics**, **mobile notaries**, **loan signing agents**, and **legal document specialists**.
 
 Designed with professionalism, trust, and clarity in mind, this WordPress site provides a complete platform for showcasing services, building credibility, and enabling easy client bookings.
 
@@ -54,4 +54,21 @@ Designed with professionalism, trust, and clarity in mind, this WordPress site p
 
 ![Homepage Preview](./assets/notarypro-homepage.png)
 ![Services Section](./assets/notarypro-services.png)
+
+---
+
+## 📜 Disclaimer
+This project is a conceptual website build created for portfolio and demonstration purposes.
+All content and brand assets are fictional and do not represent a real-world notarial entity.
+
+---
+
+## 💬 Need a site like NotaryPro?
+Let’s build a professional presence for your service business →
+
+ 📩 Reach me at 👇👇
+- **LinkedIn**: [in/emmanuelsamuel](www.linkedin.com/in/emmanuel-samuels)
+- **Email**: [emmanuelsamuel.dev@gmail](mailto:emmanuelsamuel.dev@gmail.com)
+- **WhatsApp**: [wa.me/2348065222492](https://wa.me/2348065222492?text=Hi%20Emmanuel%2C%20I%27m%20interested%20in%20a%20smart%20website%20project%20for%20my%20local%20business.%20Let%27s%20talk!
+)
  
