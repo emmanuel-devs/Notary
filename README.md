@@ -54,11 +54,9 @@ Designed with professionalism, trust, and clarity in mind, this WordPress site p
 ## 📸 Screenshot Preview
 
 
-<img width="1080" alt="Notary Mockup 1" src="https://github.com/user-attachments/assets/6eabbf84-2236-4062-b3c0-91b215d89ab7" />
+![NotaryPro Homepage](assets/notary-homepage-full.png)
 
-
-👉 Live: [https://heathcore.netlify.app/](https://notary-website.netlify.app/)
-
+👉 Live: [https://notary-website.netlify.app/](https://notary-website.netlify.app/)
 
 ---
 
