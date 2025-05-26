@@ -52,7 +52,7 @@ Designed with professionalism, trust, and clarity in mind, this WordPress site p
 
 ## 📸 Screenshot Preview
 
-!<img width="1080" alt="Notary Mockup 1" src="https://github.com/user-attachments/assets/6eabbf84-2236-4062-b3c0-91b215d89ab7" />
+<img width="1080" alt="Notary Mockup 1" src="https://github.com/user-attachments/assets/6eabbf84-2236-4062-b3c0-91b215d89ab7" />
 
 ---
 
