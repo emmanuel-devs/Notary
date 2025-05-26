@@ -54,9 +54,9 @@ Designed with professionalism, trust, and clarity in mind, this WordPress site p
 ## 📸 Screenshot Preview
 
 
-![NotaryPro Homepage](assets/healthcore-homepage-full.png)
+![NotaryPro Homepage](assets/notary-homepage-full.png)
 
-👉 Live: [https://heathcore.netlify.app/](https://notary-website.netlify.app/)
+👉 Live: [https://notary-website.netlify.app/](https://notary-website.netlify.app/)
 
 ---
 
